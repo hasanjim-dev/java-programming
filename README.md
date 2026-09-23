@@ -7,31 +7,31 @@ A collection of Java basic programming concepts and beginner-friendly projects.
 ```text
 java/
 ├── basic-codes/
-│   ├── JavaOverview.java
-│   ├── BasicStructure.java
-│   ├── VariablesConstants.java
-│   ├── DataTypes.java
-│   ├── TypeCasting.java
-│   ├── Operators.java
-│   ├── ConditionalStatements.java
-│   ├── Loops.java
-│   ├── LoopControlStatements.java
-│   ├── ArraysStrings.java
-│   ├── MethodsConstructors.java
-│   ├── ClassesObjects.java
-│   ├── Encapsulation.java
-│   ├── Inheritance.java
-│   ├── Polymorphism.java
 │   ├── Abstraction.java
-│   ├── ThisSuper.java
+│   ├── ArraysStrings.java
+│   ├── BasicStructure.java
+│   ├── ClassesObjects.java
+│   ├── ConditionalStatements.java
+│   ├── DataTypes.java
+│   ├── Encapsulation.java
 │   ├── ExceptionHandling.java
 │   ├── FileHandling.java
-│   └── Multithreading.java
+│   ├── Inheritance.java
+│   ├── JavaOverview.java
+│   ├── LoopControlStatements.java
+│   ├── Loops.java
+│   ├── MethodsConstructors.java
+│   ├── Multithreading.java
+│   ├── Operators.java
+│   ├── Polymorphism.java
+│   ├── ThisSuper.java
+│   ├── TypeCasting.java
+│   └── VariablesConstants.java
 │
 └── projects/
-    ├── SimpleCalculator.java
     ├── CurrencyConverter.java
     ├── QuizApplication.java
+    ├── SimpleCalculator.java
     └── TicTacToe.java
 ```
 
